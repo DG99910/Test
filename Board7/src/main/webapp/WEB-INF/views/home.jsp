@@ -14,7 +14,11 @@
 <body>
   <main>
 <<<<<<< HEAD
+
 	<h2>Home</h2>
+=======
+	<h2>BoardPagingHome.</h2>
+>>>>>>> d10ac37ee25cdb6b07495fb7c33f7a4ce8f11ca6
 =======
 	<h2>BoardPagingHome.</h2>
 >>>>>>> d10ac37ee25cdb6b07495fb7c33f7a4ce8f11ca6
